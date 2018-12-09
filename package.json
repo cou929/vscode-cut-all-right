@@ -3,6 +3,7 @@
     "displayName": "Cut All Right",
     "description": "Cut rest of line. Like `Delete All Right` but cut it and store to clipboard.",
     "version": "0.0.1",
+    "publisher": "cou929",
     "engines": {
         "vscode": "^1.29.0"
     },
