@@ -4,6 +4,12 @@
     "description": "Cut rest of line. Like `Delete All Right` but cut it and store to clipboard.",
     "version": "0.0.1",
     "publisher": "cou929",
+    "homepage": "https://github.com/cou929/vscode-cut-all-right",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cou929/vscode-cut-all-right.git"
+    },
+    "bugs": "https://github.com/cou929/vscode-cut-all-right/issues",
     "engines": {
         "vscode": "^1.29.0"
     },
