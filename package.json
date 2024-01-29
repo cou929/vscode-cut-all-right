@@ -11,7 +11,7 @@
     },
     "bugs": "https://github.com/cou929/vscode-cut-all-right/issues",
     "engines": {
-        "vscode": "^1.29.0"
+        "vscode": "^1.72.0"
     },
     "categories": [
         "Other"
