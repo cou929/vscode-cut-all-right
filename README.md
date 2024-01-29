@@ -21,9 +21,3 @@ This extension is a single function. If you want to use more Emacs keybinds, con
     - Cut to the end of the line.
 - `ctrl+k`
     - Default keybind to `cutAllRight` command.
-
-## Release Notes
-
-### 0.0.1
-
-Initial release.
